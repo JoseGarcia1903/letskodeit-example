@@ -1,0 +1,166 @@
+27/02/2023 01:01:20 PM: - LoginPage: - INFO: Locator found: //div[@data-component='button']//a[@href='/login'] Type: xpath
+27/02/2023 01:01:21 PM: - LoginPage: - INFO: Clicked Element: //div[@data-component='button']//a[@href='/login'] Type: xpath
+27/02/2023 01:01:21 PM: - LoginPage: - INFO: Locator found: email Type: id
+27/02/2023 01:01:21 PM: - LoginPage: - INFO: Locator found: password Type: id
+27/02/2023 01:01:23 PM: - LoginPage: - INFO: Locator found: email Type: id
+27/02/2023 01:01:24 PM: - LoginPage: - INFO: Data sent: test2@email.com To:email
+27/02/2023 01:01:24 PM: - LoginPage: - INFO: Locator found: password Type: id
+27/02/2023 01:01:24 PM: - LoginPage: - INFO: Data sent: thisisatest To:password
+27/02/2023 01:01:29 PM: - LoginPage: - ERROR: Locator NOT FOUND: //input[@type='submit'] Type: xpath
+27/02/2023 01:01:29 PM: - LoginPage: - ERROR: We Can NOT Clicked the Element: //input[@type='submit'] Type: xpath
+27/02/2023 01:01:35 PM: - LoginPage: - ERROR: Locator NOT FOUND: //span[contains(text(), 'Your username or password is invalid. Please try again.')] Type: xpath
+27/02/2023 01:01:35 PM: - LoginPage: - INFO: Locator found: //div[@data-component='button']//a[@href='/login'] Type: xpath
+27/02/2023 01:01:36 PM: - LoginPage: - INFO: Clicked Element: //div[@data-component='button']//a[@href='/login'] Type: xpath
+27/02/2023 01:01:36 PM: - LoginPage: - INFO: Locator found: email Type: id
+27/02/2023 01:01:36 PM: - LoginPage: - INFO: Locator found: password Type: id
+27/02/2023 01:01:38 PM: - LoginPage: - INFO: Locator found: email Type: id
+27/02/2023 01:01:38 PM: - LoginPage: - INFO: Data sent: test2@email.com To:email
+27/02/2023 01:01:38 PM: - LoginPage: - INFO: Locator found: password Type: id
+27/02/2023 01:01:38 PM: - LoginPage: - INFO: Data sent: thisisatest To:password
+27/02/2023 01:01:40 PM: - LoginPage: - INFO: Actual Text: Login
+27/02/2023 01:01:40 PM: - LoginPage: - INFO: Text Expected: Login
+27/02/2023 01:01:40 PM: - LoginPage: - INFO: SAME TEXT
+27/02/2023 01:01:40 PM: - TestStatus: - INFO: VERIFICATION SUCCESSFUL :: Title Correct
+27/02/2023 01:01:40 PM: - LoginPage: - INFO: Locator found: //h4[contains(text(), 'Login')] Type: xpath
+27/02/2023 01:01:40 PM: - LoginPage: - INFO: Element Present
+27/02/2023 01:01:40 PM: - TestStatus: - INFO: VERIFICATION SUCCESSFUL :: Test Valid Login Completed
+27/02/2023 01:01:40 PM: - TestStatus: - INFO: test_validLoginTEST SUCCESSFUL
+27/02/2023 01:03:49 PM: - LoginPage: - INFO: Locator found: //div[@data-component='button']//a[@href='/login'] Type: xpath
+27/02/2023 01:03:50 PM: - LoginPage: - INFO: Clicked Element: //div[@data-component='button']//a[@href='/login'] Type: xpath
+27/02/2023 01:03:50 PM: - LoginPage: - INFO: Locator found: email Type: id
+27/02/2023 01:03:50 PM: - LoginPage: - INFO: Locator found: password Type: id
+27/02/2023 01:03:52 PM: - LoginPage: - INFO: Locator found: email Type: id
+27/02/2023 01:03:52 PM: - LoginPage: - INFO: Data sent: test2@email.com To:email
+27/02/2023 01:03:52 PM: - LoginPage: - INFO: Locator found: password Type: id
+27/02/2023 01:03:52 PM: - LoginPage: - INFO: Data sent: thisisatest To:password
+27/02/2023 01:03:57 PM: - LoginPage: - ERROR: Locator NOT FOUND: Login Type: id
+27/02/2023 01:03:57 PM: - LoginPage: - ERROR: We Can NOT Clicked the Element: Login Type: id
+27/02/2023 01:04:03 PM: - LoginPage: - ERROR: Locator NOT FOUND: //span[contains(text(), 'Your username or password is invalid. Please try again.')] Type: xpath
+27/02/2023 01:04:04 PM: - LoginPage: - INFO: Locator found: //div[@data-component='button']//a[@href='/login'] Type: xpath
+27/02/2023 01:04:05 PM: - LoginPage: - INFO: Clicked Element: //div[@data-component='button']//a[@href='/login'] Type: xpath
+27/02/2023 01:04:05 PM: - LoginPage: - INFO: Locator found: email Type: id
+27/02/2023 01:04:05 PM: - LoginPage: - INFO: Locator found: password Type: id
+27/02/2023 01:04:07 PM: - LoginPage: - INFO: Locator found: email Type: id
+27/02/2023 01:04:07 PM: - LoginPage: - INFO: Data sent: test2@email.com To:email
+27/02/2023 01:04:07 PM: - LoginPage: - INFO: Locator found: password Type: id
+27/02/2023 01:04:08 PM: - LoginPage: - INFO: Data sent: thisisatest To:password
+27/02/2023 01:04:10 PM: - LoginPage: - INFO: Actual Text: Login
+27/02/2023 01:04:10 PM: - LoginPage: - INFO: Text Expected: Login
+27/02/2023 01:04:10 PM: - LoginPage: - INFO: SAME TEXT
+27/02/2023 01:04:10 PM: - TestStatus: - INFO: VERIFICATION SUCCESSFUL :: Title Correct
+27/02/2023 01:04:10 PM: - LoginPage: - INFO: Locator found: //h4[contains(text(), 'Login')] Type: xpath
+27/02/2023 01:04:10 PM: - LoginPage: - INFO: Element Present
+27/02/2023 01:04:10 PM: - TestStatus: - INFO: VERIFICATION SUCCESSFUL :: Test Valid Login Completed
+27/02/2023 01:04:10 PM: - TestStatus: - INFO: test_validLoginTEST SUCCESSFUL
+27/02/2023 01:06:31 PM: - LoginPage: - INFO: Locator found: //div[@data-component='button']//a[@href='/login'] Type: xpath
+27/02/2023 01:06:31 PM: - LoginPage: - INFO: Clicked Element: //div[@data-component='button']//a[@href='/login'] Type: xpath
+27/02/2023 01:06:31 PM: - LoginPage: - INFO: Locator found: email Type: id
+27/02/2023 01:06:31 PM: - LoginPage: - INFO: Locator found: password Type: id
+27/02/2023 01:06:33 PM: - LoginPage: - INFO: Locator found: email Type: id
+27/02/2023 01:06:34 PM: - LoginPage: - INFO: Data sent: test2@email.com To:email
+27/02/2023 01:06:34 PM: - LoginPage: - INFO: Locator found: password Type: id
+27/02/2023 01:06:34 PM: - LoginPage: - INFO: Data sent: thisisatest To:password
+27/02/2023 01:06:36 PM: - LoginPage: - INFO: Locator found: login Type: id
+27/02/2023 01:06:36 PM: - LoginPage: - INFO: Clicked Element: login Type: id
+27/02/2023 01:06:42 PM: - LoginPage: - ERROR: Locator NOT FOUND: //span[contains(text(), 'Your username or password is invalid. Please try again.')] Type: xpath
+27/02/2023 01:06:42 PM: - LoginPage: - INFO: Locator found: //div[@data-component='button']//a[@href='/login'] Type: xpath
+27/02/2023 01:06:43 PM: - LoginPage: - INFO: Clicked Element: //div[@data-component='button']//a[@href='/login'] Type: xpath
+27/02/2023 01:06:43 PM: - LoginPage: - INFO: Locator found: email Type: id
+27/02/2023 01:06:43 PM: - LoginPage: - INFO: Locator found: password Type: id
+27/02/2023 01:06:45 PM: - LoginPage: - INFO: Locator found: email Type: id
+27/02/2023 01:06:45 PM: - LoginPage: - INFO: Data sent: test2@email.com To:email
+27/02/2023 01:06:45 PM: - LoginPage: - INFO: Locator found: password Type: id
+27/02/2023 01:06:45 PM: - LoginPage: - INFO: Data sent: thisisatest To:password
+27/02/2023 01:06:48 PM: - LoginPage: - INFO: Actual Text: Login
+27/02/2023 01:06:48 PM: - LoginPage: - INFO: Text Expected: Login
+27/02/2023 01:06:48 PM: - LoginPage: - INFO: SAME TEXT
+27/02/2023 01:06:48 PM: - TestStatus: - INFO: VERIFICATION SUCCESSFUL :: Title Correct
+27/02/2023 01:06:48 PM: - LoginPage: - INFO: Locator found: //h4[contains(text(), 'Login')] Type: xpath
+27/02/2023 01:06:48 PM: - LoginPage: - INFO: Element Present
+27/02/2023 01:06:48 PM: - TestStatus: - INFO: VERIFICATION SUCCESSFUL :: Test Valid Login Completed
+27/02/2023 01:06:48 PM: - TestStatus: - INFO: test_validLoginTEST SUCCESSFUL
+27/02/2023 01:10:20 PM: - LoginPage: - INFO: Locator found: //div[@data-component='button']//a[@href='/login'] Type: xpath
+27/02/2023 01:10:20 PM: - LoginPage: - INFO: Clicked Element: //div[@data-component='button']//a[@href='/login'] Type: xpath
+27/02/2023 01:10:20 PM: - LoginPage: - INFO: Locator found: email Type: id
+27/02/2023 01:10:20 PM: - LoginPage: - INFO: Locator found: password Type: id
+27/02/2023 01:10:22 PM: - LoginPage: - INFO: Locator found: email Type: id
+27/02/2023 01:10:23 PM: - LoginPage: - INFO: Data sent: test2@email.com To:email
+27/02/2023 01:10:23 PM: - LoginPage: - INFO: Locator found: password Type: id
+27/02/2023 01:10:23 PM: - LoginPage: - INFO: Data sent: thisisatest To:password
+27/02/2023 01:10:25 PM: - LoginPage: - INFO: Locator found: login Type: id
+27/02/2023 01:10:25 PM: - LoginPage: - INFO: Clicked Element: login Type: id
+27/02/2023 01:10:28 PM: - LoginPage: - INFO: Locator found: //div[@data-component='button']//a[@href='/login'] Type: xpath
+27/02/2023 01:10:28 PM: - LoginPage: - INFO: Clicked Element: //div[@data-component='button']//a[@href='/login'] Type: xpath
+27/02/2023 01:10:28 PM: - LoginPage: - INFO: Locator found: email Type: id
+27/02/2023 01:10:28 PM: - LoginPage: - INFO: Locator found: password Type: id
+27/02/2023 01:10:31 PM: - LoginPage: - INFO: Locator found: email Type: id
+27/02/2023 01:10:31 PM: - LoginPage: - INFO: Data sent: test2@email.com To:email
+27/02/2023 01:10:31 PM: - LoginPage: - INFO: Locator found: password Type: id
+27/02/2023 01:10:31 PM: - LoginPage: - INFO: Data sent: thisisatest To:password
+27/02/2023 01:10:33 PM: - LoginPage: - INFO: Actual Text: Login
+27/02/2023 01:10:33 PM: - LoginPage: - INFO: Text Expected: Login
+27/02/2023 01:10:33 PM: - LoginPage: - INFO: SAME TEXT
+27/02/2023 01:10:33 PM: - TestStatus: - INFO: VERIFICATION SUCCESSFUL :: Title Correct
+27/02/2023 01:10:33 PM: - LoginPage: - INFO: Locator found: //h4[contains(text(), 'Login')] Type: xpath
+27/02/2023 01:10:33 PM: - LoginPage: - INFO: Element Present
+27/02/2023 01:10:33 PM: - TestStatus: - INFO: VERIFICATION SUCCESSFUL :: Test Valid Login Completed
+27/02/2023 01:10:33 PM: - TestStatus: - INFO: test_validLoginTEST SUCCESSFUL
+27/02/2023 01:14:19 PM: - Courses: - INFO: Locator found: //a[contains(text(), 'ALL COURSES')] Type: xpath
+27/02/2023 01:14:22 PM: - Courses: - INFO: Clicked Element: //a[contains(text(), 'ALL COURSES')] Type: xpath
+27/02/2023 01:14:22 PM: - Courses: - INFO: Locator found: //input[@id='search'] Type: xpath
+27/02/2023 01:14:22 PM: - Courses: - INFO: Data sent: JavaScript To://input[@id='search']
+27/02/2023 01:14:22 PM: - Courses: - INFO: Locator found: //button[@type='submit'] Type: xpath
+27/02/2023 01:14:22 PM: - Courses: - INFO: Clicked Element: //button[@type='submit'] Type: xpath
+27/02/2023 01:14:24 PM: - Courses: - INFO: Locator found: //h4[@class='dynamic-heading' and contains(text(), 'JavaScript for beginners')] Type: xpath
+27/02/2023 01:14:28 PM: - Courses: - INFO: Clicked Element: //h4[@class='dynamic-heading' and contains(text(), 'JavaScript for beginners')] Type: xpath
+27/02/2023 01:14:28 PM: - Courses: - INFO: Locator found: //button[contains(text(), 'Enroll in Course')] Type: xpath
+27/02/2023 01:14:32 PM: - Courses: - INFO: Clicked Element: //button[contains(text(), 'Enroll in Course')] Type: xpath
+27/02/2023 01:14:40 PM: - Courses: - INFO: List with elements found using: //iframe Type: xpath
+27/02/2023 01:14:40 PM: - Courses: - INFO: iframe List: 
+27/02/2023 01:14:40 PM: - Courses: - INFO: 9
+27/02/2023 01:14:40 PM: - Courses: - INFO: Locator found: //input[@aria-label='Número de la tarjeta de crédito o débito'] Type: xpath
+27/02/2023 01:14:40 PM: - Courses: - INFO: Element Present
+27/02/2023 01:14:40 PM: - Courses: - INFO: Element found in iframe with index: 
+27/02/2023 01:14:40 PM: - Courses: - INFO: 0
+27/02/2023 01:14:40 PM: - Courses: - INFO: Locator found: //input[@aria-label='Número de la tarjeta de crédito o débito'] Type: xpath
+27/02/2023 01:14:41 PM: - Courses: - INFO: Data sent: 1234 To://input[@aria-label='Número de la tarjeta de crédito o débito']
+27/02/2023 01:14:41 PM: - Courses: - INFO: List with elements found using: //iframe Type: xpath
+27/02/2023 01:14:41 PM: - Courses: - INFO: iframe List: 
+27/02/2023 01:14:41 PM: - Courses: - INFO: 9
+27/02/2023 01:14:44 PM: - Courses: - ERROR: Locator NOT FOUND: //input[@aria-label='Fecha de vencimiento de la tarjeta de crédito o débito'] Type: xpath
+27/02/2023 01:14:44 PM: - Courses: - INFO: Locator found: //input[@aria-label='Fecha de vencimiento de la tarjeta de crédito o débito'] Type: xpath
+27/02/2023 01:14:44 PM: - Courses: - INFO: Element Present
+27/02/2023 01:14:44 PM: - Courses: - INFO: Element found in iframe with index: 
+27/02/2023 01:14:44 PM: - Courses: - INFO: 1
+27/02/2023 01:14:44 PM: - Courses: - INFO: Locator found: //input[@aria-label='Fecha de vencimiento de la tarjeta de crédito o débito'] Type: xpath
+27/02/2023 01:14:44 PM: - Courses: - INFO: Data sent: 2105 To://input[@aria-label='Fecha de vencimiento de la tarjeta de crédito o débito']
+27/02/2023 01:14:46 PM: - Courses: - INFO: Locator found: //li[@class='card-no text-danger']//span[contains(text(), 'El número de tarjeta está incompleto.')] Type: xpath
+27/02/2023 01:14:46 PM: - Courses: - INFO: Element Displayed using: //li[@class='card-no text-danger']//span[contains(text(), 'El número de tarjeta está incompleto.')]
+27/02/2023 01:14:46 PM: - TestStatus: - INFO: VERIFICATION SUCCESSFUL :: Trying to enrroll a course
+27/02/2023 01:14:46 PM: - TestStatus: - INFO: test_verifyCourseFailTEST SUCCESSFUL
+27/02/2023 01:14:51 PM: - LoginPage: - INFO: Locator found: //div[@data-component='button']//a[@href='/login'] Type: xpath
+27/02/2023 01:14:52 PM: - LoginPage: - INFO: Clicked Element: //div[@data-component='button']//a[@href='/login'] Type: xpath
+27/02/2023 01:14:52 PM: - LoginPage: - INFO: Locator found: email Type: id
+27/02/2023 01:14:52 PM: - LoginPage: - INFO: Locator found: password Type: id
+27/02/2023 01:14:54 PM: - LoginPage: - INFO: Locator found: email Type: id
+27/02/2023 01:14:54 PM: - LoginPage: - INFO: Data sent: test2@email.com To:email
+27/02/2023 01:14:54 PM: - LoginPage: - INFO: Locator found: password Type: id
+27/02/2023 01:14:54 PM: - LoginPage: - INFO: Data sent: thisisatest To:password
+27/02/2023 01:14:56 PM: - LoginPage: - INFO: Locator found: login Type: id
+27/02/2023 01:14:56 PM: - LoginPage: - INFO: Clicked Element: login Type: id
+27/02/2023 01:14:59 PM: - LoginPage: - INFO: Locator found: //div[@data-component='button']//a[@href='/login'] Type: xpath
+27/02/2023 01:15:00 PM: - LoginPage: - INFO: Clicked Element: //div[@data-component='button']//a[@href='/login'] Type: xpath
+27/02/2023 01:15:00 PM: - LoginPage: - INFO: Locator found: email Type: id
+27/02/2023 01:15:00 PM: - LoginPage: - INFO: Locator found: password Type: id
+27/02/2023 01:15:02 PM: - LoginPage: - INFO: Locator found: email Type: id
+27/02/2023 01:15:02 PM: - LoginPage: - INFO: Data sent: test2@email.com To:email
+27/02/2023 01:15:02 PM: - LoginPage: - INFO: Locator found: password Type: id
+27/02/2023 01:15:02 PM: - LoginPage: - INFO: Data sent: thisisatest To:password
+27/02/2023 01:15:04 PM: - LoginPage: - INFO: Actual Text: Login
+27/02/2023 01:15:04 PM: - LoginPage: - INFO: Text Expected: Login
+27/02/2023 01:15:04 PM: - LoginPage: - INFO: SAME TEXT
+27/02/2023 01:15:04 PM: - TestStatus: - INFO: VERIFICATION SUCCESSFUL :: Title Correct
+27/02/2023 01:15:04 PM: - LoginPage: - INFO: Locator found: //h4[contains(text(), 'Login')] Type: xpath
+27/02/2023 01:15:04 PM: - LoginPage: - INFO: Element Present
+27/02/2023 01:15:04 PM: - TestStatus: - INFO: VERIFICATION SUCCESSFUL :: Test Valid Login Completed
+27/02/2023 01:15:04 PM: - TestStatus: - INFO: test_validLoginTEST SUCCESSFUL
